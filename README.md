@@ -9,5 +9,6 @@
 > - An example usage of the data to regenerate figures is provided in WittenbergWang2006.R
 
 > For questions, reach out to Gayle Wittenberg gaylew@gmail.com, or Samuel S.-H. Wang sswang@princeton.edu. 
+> We are interested in learning how these data are used, and encourage those generating theoretical models to make code available via github or another code repository upon publiction.
 
 
